@@ -1,4 +1,4 @@
-/*Bunly Buth
+/*
 
 filename: receiver.cpp
 
